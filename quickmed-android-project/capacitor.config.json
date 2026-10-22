@@ -1,6 +1,0 @@
-{
-  "appId": "com.quickmed.app",
-  "appName": "QuickMed",
-  "webDir": "www",
-  "android": { "allowMixedContent": false }
-}
